@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![실행영상](http://img.youtube.com/vi/a2BI2aOCGrs/0.jpg)](http://www.youtube.com/watch?v=a2BI2aOCGrs "Snake Game in DQN")
+[![실행영상](https://img.youtube.com/vi/a2BI2aOCGrs/maxresdefault.jpg)](http://www.youtube.com/watch?v=a2BI2aOCGrs "Snake Game in DQN")
 
 [< Plese click this video >](http://www.youtube.com/watch?v=a2BI2aOCGrs)
 
@@ -28,8 +28,8 @@ Sequential(
 
 <div align="center">
 
-[![PDF 썸네일](./pdf-thumbnail.png)](./main.pdf "Download File")
+[![PDF 썸네일](./docs/pdf-thumbnail.png)](./docs/main.pdf "Download File")
 
-[< Please click to download PDF >](./main.pdf)
+[< Please click to download PDF >](./docs/main.pdf)
 
 </div>
