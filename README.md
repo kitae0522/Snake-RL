@@ -4,7 +4,7 @@
 
 [![실행영상](http://img.youtube.com/vi/a2BI2aOCGrs/0.jpg)](http://www.youtube.com/watch?v=a2BI2aOCGrs "Snake Game in DQN")
 
-[< Plese Click This Video >](http://www.youtube.com/watch?v=a2BI2aOCGrs)
+[< Plese click this video >](http://www.youtube.com/watch?v=a2BI2aOCGrs)
 
 </div>
 
@@ -30,6 +30,6 @@ Sequential(
 
 [![PDF 썸네일](./pdf-thumbnail.png)](./main.pdf "Download File")
 
-[< Download PDF >](./main.pdf)
+[< Please click to download PDF >](./main.pdf)
 
 </div>
