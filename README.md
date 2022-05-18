@@ -4,7 +4,7 @@
 
 [![실행영상](https://img.youtube.com/vi/a2BI2aOCGrs/maxresdefault.jpg)](http://www.youtube.com/watch?v=a2BI2aOCGrs "Snake Game in DQN")
 
-[< Plese click this video >](http://www.youtube.com/watch?v=a2BI2aOCGrs)
+[< Please click this video >](http://www.youtube.com/watch?v=a2BI2aOCGrs)
 
 </div>
 
